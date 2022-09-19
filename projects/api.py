@@ -1,4 +1,3 @@
-import projects
 from .models import Project
 from rest_framework import viewsets, permissions
 from .serializers import ProjectSerializer
